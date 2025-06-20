@@ -21,8 +21,9 @@ The dataset is sourced from **Kaggle** or similar public data repositories and c
 
 ---
 
-## 📘 **USED CAR PRICE DATASET – KAGGLE**
+DATASET LINK:
 
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 ---
 
 ## 🎯 **OBJECTIVE**
