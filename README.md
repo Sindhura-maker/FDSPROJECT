@@ -1,4 +1,4 @@
-# FDSPROJECT
+
 # 🚗 **CAR PRICE PREDICTION USING DATA SCIENCE**
 
 This Data Science project focuses on developing a **regression model to predict the resale value of used cars**. It includes detailed steps from data cleaning to model evaluation, all using real-world automobile data. The aim is to help buyers and sellers understand the **fair market value** of a car based on its features.
